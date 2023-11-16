@@ -1,0 +1,14 @@
+curl 'https://jafton.revenuehero.io/_next/data/fRbXKXI7U0XFtSBJa4v5x/en/meetings/views/upcoming.json?viewId=upcoming' \
+  -H 'authority: jafton.revenuehero.io' \
+  -H 'accept: */*' \
+  -H 'accept-language: ru-RU,ru;q=0.9' \
+  -H 'cookie: rh_session=Fe26.2*1*63e41901f5500bfe89e6cb68caee0717562eb8295804335da07d1e98c4365487*-2pmksrSAAWFiOd2sORQjA*4wYkUy-ppzRUflv7ZpbiOR_VL0lkRb7sLQQd0XiO0rp8tvQ6bZJumn66Xdj7H8DtKjdsctgxpxAZZSsIiGyUipig7t-U2GdK_4W_WSUvZ92qkt_NXLJJZQwDXWgk4XJcLDL_qxd19gdk5yliFlKpDQ*1700316107203*f9cfe8b997976f7a85b8899643bd59cff7b6a4e800820f7b32eb7579a092fece*gae19Ci2KL648oRf6MxwS5uuEvwaJw1f7Q-k6RcC5BQ~2; _lr_uf_-zyhobn=5104c4e6-00a1-487f-9e5a-10cbb36f29be; devrev_plug_user_ref=bf160ff5-5f99-4d0c-a25f-e97623e90ca7; _lr_hb_-zyhobn%2Frevenuehero-production={%22heartbeat%22:1700057499005}; _lr_tabs_-zyhobn%2Frevenuehero-production={%22sessionID%22:0%2C%22recordingID%22:%225-4396cf78-8809-4d25-b4a3-8fc699c790ff%22%2C%22webViewID%22:null%2C%22lastActivity%22:1700057533140}' \
+  -H 'sec-ch-ua: "Google Chrome";v="119", "Chromium";v="119", "Not?A_Brand";v="24"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36' \
+  -H 'x-nextjs-data: 1' \
+  --compressed
